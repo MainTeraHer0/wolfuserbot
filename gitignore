@@ -1,0 +1,11 @@
+config.env
+__pycache__/*
+wolf.db
+wolf.session
+wolf.session-journal
+wolf/__pycache__/*
+wolf/modules/__pycache__/*
+wolf/modules/sql_helper/__pycache__/*
+.progress
+.vscode/*
+bin/*
