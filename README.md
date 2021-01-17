@@ -9,8 +9,8 @@
 <a href="https://t.me/WolfBotChats"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="support" /></a> </p> <a href="https://t.me/WolfUpdates"> <img src="https://img.shields.io/badge/telegram-Support_Channel-blue?style=social&logo=telegram" alt="support" /></a>
 
 </p>
-<a href="https://youtu.be/oRhG3Xsukcc"><img src="https://img.shields.io/badge/How%20To%20Deploy-LATEST-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/oRhG3Xsukcc"><img src="https://img.shields.io/youtube/views/aPU334icQSM?style=social">
+<a href="https://youtu.be/VnKXvIWWfu8"><img src="https://img.shields.io/badge/How%20To%20Deploy-LATEST-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/VnKXvIWWfu8"><img src="https://img.shields.io/youtube/views/VnKXvIWWfu8?style=social">
 
 
 ## How To Host
