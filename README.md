@@ -16,5 +16,5 @@
 ## How To Host
 Deploy WolfUserBot to Heroku:
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrSammyXD/WolfUserBot/tree/master"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrSammyXD/wolfuserbot"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
 
