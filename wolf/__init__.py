@@ -106,7 +106,7 @@ if S3:
 if BOT_TOKEN:    
     tebot = TelegramClient("bot", API_KEY, API_HASH).start(bot_token=BOT_TOKEN)
 
-borg = bot = javes = client
+borg = bot = wolf = client
 COUNT_MSG = 0
 USERS = {}
 COUNT_PM = {}
