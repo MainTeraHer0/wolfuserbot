@@ -1,4 +1,8 @@
+<h3 align="center"><b>Owner <a href="https://telegram.dog/itz_SammY"></a></b></h3>
+
+
 # 𝙒𝙤𝙡𝙛𝙪𝙨𝙚𝙧𝙗𝙤𝙩 🐺
+
 
 
 
