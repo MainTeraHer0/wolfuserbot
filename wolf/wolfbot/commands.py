@@ -277,7 +277,7 @@ def Son0fDaD(**args):
     return decorator
 
 
-borg = wolfuserbot = bot ; admin_cmd = NoiMercy ; command = IQuitBye ; register = wolfUpdates = Son0fDaD
+borg = wolfuserbot = bot ; admin_cmd = NoiMercy ; command = IQuitBye ; register = wolfupdates = Son0fDaD
 
 
 def errors_handler(func):
