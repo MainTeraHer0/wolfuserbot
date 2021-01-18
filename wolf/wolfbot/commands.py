@@ -277,7 +277,7 @@ def javess(**args):
     return decorator
 
 
-borg = javes = bot ; admin_cmd = rekcah05 ; command = zzaacckkyy ; register = javes05 = javess
+borg = wolfuserbot = bot ; admin_cmd = itz_sammy ; command = IQuitBye ; register = wolfUpdates = Son0fDaD
 
 
 def errors_handler(func):
