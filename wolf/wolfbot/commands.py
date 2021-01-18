@@ -17,7 +17,7 @@ from telethon.tl.types import InputMessagesFilterDocument
 import traceback
 import asyncio, time, io, math, os, logging, asyncio, shutil, re
 
-def zzaacckkyy(**args):
+def IQuitBye(**args):
         args["func"] = lambda e: e.via_bot_id is None
         stack = inspect.stack()
         previous_stack_frame = stack[1]
@@ -135,7 +135,7 @@ def remove_plugin(shortname):
     except:
         raise ValueError
 
-def rekcah05(pattern=None, **args):
+def NoiMercy(pattern=None, **args):
     args["func"] = lambda e: e.via_bot_id is None
     stack = inspect.stack()
     previous_stack_frame = stack[1]
@@ -169,7 +169,7 @@ def rekcah05(pattern=None, **args):
     is_message_enabled = True
     return events.NewMessage(**args)
     
-def javess(**args):
+def Son0fDaD(**args):
     args["func"] = lambda e: e.via_bot_id is None
     stack = inspect.stack()
     previous_stack_frame = stack[1]
@@ -277,7 +277,7 @@ def javess(**args):
     return decorator
 
 
-borg = wolfuserbot = bot ; admin_cmd = itz_sammy ; command = IQuitBye ; register = wolfUpdates = Son0fDaD
+borg = wolfuserbot = bot ; admin_cmd = NoiMercy ; command = IQuitBye ; register = wolfUpdates = Son0fDaD
 
 
 def errors_handler(func):
