@@ -1,7 +1,7 @@
 from telethon import events
 from var import Var
 from pathlib import Path
-from wolf.Config import config
+from wolf.config import Config
 import re, logging, inspect, sys, json, os
 from asyncio import create_subprocess_shell as asyncsubshell, subprocess as asyncsub
 from os import remove
